@@ -1,0 +1,6 @@
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\ConsolePlatformer\ConsolePlatformer\bin\Debug\ConsolePlatformer.exe.config
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\ConsolePlatformer\ConsolePlatformer\bin\Debug\ConsolePlatformer.exe
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\ConsolePlatformer\ConsolePlatformer\bin\Debug\ConsolePlatformer.pdb
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\ConsolePlatformer\ConsolePlatformer\obj\Debug\ConsolePlatformer.csprojResolveAssemblyReference.cache
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\ConsolePlatformer\ConsolePlatformer\obj\Debug\ConsolePlatformer.exe
+C:\Users\csullivan\Documents\Visual Studio 2017\Projects\ConsolePlatformer\ConsolePlatformer\obj\Debug\ConsolePlatformer.pdb
